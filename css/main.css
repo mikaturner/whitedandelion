@@ -1,0 +1,75 @@
+img{
+    width:20%;
+}
+header{
+    width: 100%;
+    background-color:azure;
+}
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 4em;
+   
+    padding:60px 0px 0px 0px;
+    text-align: center;
+}
+h2{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 200;
+    font-size: 3.125em;
+    text-align: center;
+    padding: 0px 0px 60px 0px;
+}
+h3{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 200;
+    font-size: 2em;
+    text-align: left;
+    text-decoration: underline;
+}
+h4{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 200;
+    font-size: 1.8em;
+    text-align: left;
+    margin: 30px 0px 30px 20px;
+}
+div{
+    font-family:'Raleway', sans-serif;
+    font-size: 1em;
+    padding: 0px 20px 20px 4em;
+}
+#current-patients{
+    float:left;
+    width: 50%;
+}
+#new-patients{
+    float:left;
+    width: 20%;
+}
+ .list-inline {
+        list-style: none;
+        display: flex;
+        justify-content:flex-start;
+        
+}
+li {
+        flex-basis: 500px;
+    }
+i{
+    color: darkgray;
+}
+iframe{
+    margin: 0px 0px 0px 50px;
+    padding: 0px 0px 0px 0px;
+    border: 1px solid black;
+}
+hr{
+    width: 95%;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+footer{
+    background-color: azure;
+}
